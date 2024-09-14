@@ -1,4 +1,4 @@
-# BookRecordHandler
+# BookStoreHandler
 
 The project is designed to build a program that processes and validates book records from CSV files. It performs three main tasks:
 
